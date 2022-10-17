@@ -9,3 +9,7 @@ function hi() {
   function hi3() {
     console.log("hi3");
   }
+
+  function hi4() {
+    console.log("hi4");
+  }
